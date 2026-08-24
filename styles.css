@@ -1,0 +1,21 @@
+h1 {
+  color: black;
+}
+body {
+    background: linear-gradient(to right, rgb(142, 182, 241), rgb(165, 255, 202));
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+.bemvindo {
+    color: white;
+    font-size: 24px;
+}
+.primeira {
+    font-size: 20px;
+}
